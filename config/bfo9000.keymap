@@ -30,7 +30,7 @@
 			&kp A   &kp B  &kp LC(Y)   &kp D    &kp E   &kp F    &kp G    &kp H    &kp I  		  &kp F5     &kp F6    &kp F7    &kp F8    &kp F9   &kp F10   &kp F11   &kp F12   &kp DEL
 			&kp J   &kp F2  &kp L   &kp M    &kp N   &kp O    &mwh SCROLL_UP    &kp Q    &kp R  		  &kp N5     &kp N6    &kp N7    &kp N8    &kp N9   &kp N0    &kp MINUS &kp EQUAL &kp BSPC
 			&kp S   &mo LOWER  &kp LC(X)   &mkp LCLK    &mkp MCLK   &mkp RCLK    &kp Y    &kp Z    &kp N1  		  &kp T      &kp Y     &kp U     &kp I     &kp O    &kp P     &kp LBKT  &kp RBKT  &kp BSLH
-			&kp LC(C)  &kp N2 &kp LCTRL  &kp LC(V)   &kp N5  &kp N6   &kp N7   &mwh SCROLL_DN   &kp N9     		  &kp G      &kp H     &kp J     &kp K     &kp L    &kp SEMI  &kp APOS  &kp ENTER &kp ENTER
+			&kp LC(C)  &kp N2 &kp LCTRL  &kp LC(V)   &kp N5  &kp N6   &kp N7   &kp N8   &kp N9     		  &kp G      &kp H     &kp J     &kp K     &kp L    &kp SEMI  &kp APOS  &kp ENTER &kp ENTER
 			&kp N0    &kp LS(A) &kp LS(B) &kp LS(C) &kp LS(D) &kp LS(E) &kp LS(F) &kp LS(G) &kp LS(H)     		  &kp B      &kp N     &kp M     &kp COMMA &kp DOT  &kp SLASH &kp RSHFT &kp UP    &mo LOWER
 			&kp LS(I) &kp LS(J) &kp F1 &kp LC(Z) &kp LS(M) &kp LS(N) &kp LS(O) &kp LS(P) &kp LS(Q) 		 &kp BSPC   &kp SPACE &kp SPACE &kp RMETA &kp RALT &kp RCTRL &kp LEFT  &kp DOWN  &kp RIGHT
 			>;
